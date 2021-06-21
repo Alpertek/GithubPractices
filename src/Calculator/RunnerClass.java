@@ -5,5 +5,7 @@ public class RunnerClass {
         System.out.println("Before");
         System.out.println("hello 3rd commit");
         System.out.println("hello 4rd commit");
+
+        System.out.println("hello new branch");
     }
 }
